@@ -1,0 +1,21 @@
+---
+layout: post
+title:      "Why I code"
+date:       2018-02-05 18:23:59 +0000
+permalink:  why_i_code
+---
+
+![](https://pixabay.com/get/e833b40c2bf1003ed1584d05fb0938c9bd22ffd41cb0164991f9c77da1/programmer-1653351_1280.pnghttp://)
+I started working in the construction industry during my ninth grade of high school. Construction workers are the large majority of my family and with my dad being a concreter I naturally followed in his foot steps. Throughout the years I spent my weekends and holidays developing skills that helped me to go on to earn a pretty impressive chunk of cash for a teenager. In the town I grew up in it’s an easy assumption that if you’re a male you will go on to work in the trade industry. For many years I was stuck in the cycle of working manual labour jobs. I was young and I just wanted to have fun with my mates on the weekends.  I didn’t have the foresight that I have since developed. With that being said, I believe those physically demanding tasks are what shaped my character, defining my work ethic and philosophy of life; the ability to have an “anti-fragile” mentality, being able to embrace the uncomfortable, develop the resilience and drive to push through whatever life may deal.
+
+During this time I was lost. I had a career that I "fell" in to and I never felt fulfilled doing the work. I was eager to learn and I spent my afternoons and weekends reading, learning and trying to find something that would consume me.  All of that time lead me towards discovering my love for foreign languages and musical instruments which still encompasses much of my spare time today.
+
+When I was first exposed to the world of programming I was intrigued. I saw it in a similar way as reading a foreign language.  As I went on to learn more I discovered the complexity behind the symbols. It's not just reading the syntax, it's understanding the logic, and from then on I was hooked.
+  
+The void that I had from lacking fulfillment was finally filled when I began coding. The simple fact that I find myself totally immersed in code with hours passing by as I remain completely focused shows my passion and commitment to improve.
+
+Something that has me exited for the future is the rapid development of technology. Without code there would be no platforms like Über and Air Bn’B revolutionizing the way we commute and travel across the globe, both apps that I personally use frequently which have greatly improved my quality of life and travel. The fact that frameworks are being constantly developed to help engineers build more efficiently and with better structure proves for an exciting future for software development.
+
+Since my initial exposure to coding almost a year ago, my interest with programming continues to deepen. I’m eager to get my hands on as much as information as I can and get excited to see my self improvement each day. When we stop learning. We stop growing.   
+
+
