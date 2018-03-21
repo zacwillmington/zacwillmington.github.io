@@ -37,4 +37,4 @@ Those greedy buggers. So, now what’s going on with all those paren and numbers
 `/([0-9].*?){10}|(\([0-9]{3}\)(([0-9]{3}-[0-9]{4})|[0-9]{7})\b)/`
 
 
-If that last regex didn't pass, we have or/pipe `(“ | ”)` operator run the next block which checks for numbers in this format “678 667-8898” or  “678 7784547” and the last symbol is a word-boundary, stopping the search at a total of 10 numbers. Finishing up this implementation I decided to refine my solution with a true or false ternary operator.
+If that last regex didn't pass, we have or/pipe operator run the next block which checks for numbers in this format “678 667-8898” or  “678 7784547” and the last symbol is a word-boundary, stopping the search at a total of 10 numbers. Finishing up this implementation I decided to refine my solution with a true or false ternary operator.
