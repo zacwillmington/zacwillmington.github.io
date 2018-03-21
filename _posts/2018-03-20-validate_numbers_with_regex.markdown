@@ -29,19 +29,7 @@ When you see brackets used in this way the Regex is reading any collection of nu
  Here’s an example.
 
 
-```
-Greedy .*
-“566 667-8989, 7789997893, 586 1236 669”
-
-\___________/ \__________/ \___________/
-    found 10  => found 10  => found 10
-		
- Non-greedy .*?
-“566 667 8989, 7789997893, 586 1236 669”
-        => =>.         =>.  => already searched  
- \________/  <=  on the way back hits 10 numbers
- 
- ```
+ ![](http://res.cloudinary.com/zacwillmington/image/upload/v1521594307/Screen_Shot_2018-03-20_at_6.01.40_PM_pqd9dq.png)
 
 Those greedy buggers. So, now what’s going on with all those paren and numbers?
 
