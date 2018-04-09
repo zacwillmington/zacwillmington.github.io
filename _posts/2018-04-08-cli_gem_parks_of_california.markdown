@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "CLI Gem Parks of California"
-date:       2018-04-09 02:27:07 +0000
+date:       2018-04-08 22:27:08 -0400
 permalink:  cli_gem_parks_of_california
 ---
 
@@ -25,7 +25,7 @@ I began by making the `Parks::CLI` class. This will be my controller for the gem
 In the first method of my app is #call. Its job is to run all the methods in the correct order to from start to finish.
 
 
-# 
+
 ```
   def call
         puts "Loading data..."
