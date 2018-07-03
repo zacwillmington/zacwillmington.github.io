@@ -6,7 +6,10 @@ permalink:  build_a_flashcard_app_with_sinatra
 ---
 
 
+![](http://res.cloudinary.com/zacwillmington/image/upload/v1530576844/Screen_Shot_2018-07-02_at_5.12.46_PM_dzirhn.png)
+
 In this post I’m going to walk you through my simple CRUD (create, read, update, delete) application. I decided to make a flashcard app, seeing as it ticks all the boxes for a CRUD application and I have used many flashcard apps before. I learned a lot about object relations, sessions and controller actions while building this application. I used HTML, CSS and Sinatra to develop it. Here’s how it went.
+
 
 ## The Process
 
@@ -14,7 +17,7 @@ In this post I’m going to walk you through my simple CRUD (create, read, updat
 2. Creating migrations and setting up tables; users, decks and cards. 
 3. Connect controller actions to views.
 4. Code up erb files to display forms allowing me to create, read, update and delete any information of the user’s decks or cards.
-5. Once it was fully functional I added styling to the CSS file. 
+5. Once it was fully functional I added styling to the CSS file.&#x2028;
 
 ## Database Structure(schema)
 I created migrations for three tables; users, decks and cards. The relations between models are as follows; a user has many decks,  a deck belongs to a user and has many cards and a card belongs to a deck. Now I know the relations I created my models “user, deck and card.” Thanks to Activerecord, the object relations were a breeze. Here's the schema.
