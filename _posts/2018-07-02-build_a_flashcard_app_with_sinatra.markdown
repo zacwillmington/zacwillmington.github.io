@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Build a Flashcard App with Sinatra!"
+title:      "Build a Flashcard App with Sinatra"
 date:       2018-07-02 20:16:09 -0400
 permalink:  build_a_flashcard_app_with_sinatra
 ---
